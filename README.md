@@ -1,5 +1,5 @@
 ## About Me 🍒
-Double major in **Industrial Engineering** and **Computer Science & Engineering** at skku
+Double major in **Industrial Engineering** and **Computer Science & Engineering** @ skku
 
 ### Contact Information
 - **[LinkedIn](https://www.linkedin.com/in/rachell-dwg/)**
