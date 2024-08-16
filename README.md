@@ -1,8 +1,8 @@
 ## About Me 🍒
 
 ### 🎓 Education
-- [성균관대학교(Sungkyunkwan University)](https://www.skku.ac.kr/skku/index.do) 소프트웨어학과 (Computer Science and Engineering) (2022 ~ )
-- [성균관대학교(Sungkyunkwan University)](https://www.skku.ac.kr/skku/index.do) 산업공학과 (Industrial Engineering) (2022 ~ )
+- [성균관대학교(Sungkyunkwan University)](https://www.skku.ac.kr/skku/index.do) 소프트웨어학과 (Computer Science and Engineering) (Class of 2026)
+- [성균관대학교(Sungkyunkwan University)](https://www.skku.ac.kr/skku/index.do) 산업공학과 (Industrial Engineering) (Class of 2026)
 - [Cupertino High School](https://chs.fuhsd.org/) (Class of 2021)
 
 ### 👾 Interests
