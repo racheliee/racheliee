@@ -11,7 +11,7 @@
 ### 🛠️ Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,git" />
+    <img src="https://skillicons.dev/icons?i=c,cpp" />
   </a>
   <br/>
 </p>
