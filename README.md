@@ -28,7 +28,7 @@
 - coming soon
 
 ### 🏆 Awards
-- 2024.08.02 새싹해커톤 우수상 (서울경제진흥원)
+- 2024.08.02 [새싹해커톤 (서울시 & google 주최)](https://www.yna.co.kr/view/AKR20240802119700004) 우수상 (서울경제진흥원)
 
 ### 🎖️ Certifications
 - KT AICE
