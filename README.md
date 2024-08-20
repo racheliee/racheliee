@@ -11,7 +11,7 @@
 ### 🛠️ Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,nestjs,python" />
   </a>
   <br/>
 </p>
