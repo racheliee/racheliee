@@ -1,8 +1,7 @@
 ## About Me 🍒
 
 ### 🎓 Education
-- [성균관대학교(Sungkyunkwan University)](https://www.skku.ac.kr/skku/index.do) 소프트웨어학과 (Computer Science and Engineering) (Class of 2026)
-- [성균관대학교(Sungkyunkwan University)](https://www.skku.ac.kr/skku/index.do) 산업공학과 (Industrial Engineering) (Class of 2026)
+- [Sungkyunkwan University](https://www.skku.ac.kr/skku/index.do) CSE & IE (Class of 2026)
 - [Cupertino High School](https://chs.fuhsd.org/) (Class of 2021)
 
 ### 👾 Interests
@@ -33,6 +32,6 @@
 - 2024.08.22 [제2회 KISIA 정보보호 개발자 해커톤](https://www.boannews.com/media/view.asp?idx=132213&direct=mobile) 과학기술정보통신부장관상 (최우수상 1등)
 
 ### 🎖️ Certifications
-- KT AICE
+- KT AICE Associate
 - TOEFL 115/120
 - DELE B2
