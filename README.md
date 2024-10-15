@@ -5,20 +5,17 @@
 - [Cupertino High School](https://chs.fuhsd.org/) (Class of 2021)
 
 ### 👾 Interests
-- AWS, backend engineering
+- AWS, Backend Engineering, Machine Learning
 
 ### 🛠️ Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,nestjs,python" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,kotlin,java,r,ts,nestjs,flask,nextjs,prisma,react,postgres,aws,docker,git" />
   </a>
   <br/>
 </p>
 
-- **Backend**
-  - NestJS
-  - Flask
-  
+
 ### 🚀 Experiences
 - (2022.07-2022.07) 삼성 샤이닝스타 1기
 - (2022.03-2023.12) 성균관대학교 공식 홍보대사 '알리미'
@@ -35,3 +32,7 @@
 ### 🎖️ Certifications
 - [KT AICE Associate](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/azMvZ09Wa1I2c3FnMnA5TTlSQ0tPdz09)
 - Languages: TOEFL 115/120, DELE B2
+
+### 📚 Scholarships
+- 2024년 한미 첨단분야 청년교류 지원사업 장학생
+- 성정 최우수장학금 2회 & 우수장학금 1회
