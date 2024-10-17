@@ -2,7 +2,7 @@
 ➡️ [한국어로 보기](./korean.md)
 
 ### 🎓 Education
-- [Sungkyunkwan University](https://www.skku.ac.kr/skku/index.do) CSE & IE (Class of 2026)
+- [Sungkyunkwan University](https://www.skku.ac.kr/skku/index.do) CSE & IE (Class of 2025)
 - [Cupertino High School](https://chs.fuhsd.org/) (Class of 2021)
 
 ### 👾 Interests
