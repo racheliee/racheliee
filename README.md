@@ -1,5 +1,6 @@
 ## About Me 🍒
 ➡️ [한국어로 보기](./korean.md)
+- [resume](./rachel_park_resume.pdf)
 
 ### 🎓 Education
 - [Sungkyunkwan University](https://www.skku.ac.kr/skku/index.do) CSE & IE (Class of 2025)
@@ -23,7 +24,7 @@
 - (2024.07-2024.08) [Korea Information Security Industry Association (KISIA)](https://www.kisia.or.kr/) AI & Network Security Program
 
 ### ⚡ Projects
-- (2024.07-present) [AI powered malicious URL checker](https://github.com/racheliee/kisia-project)
+- (2024.07-2024.10) [AI powered malicious URL checker](https://github.com/racheliee/kisia-project)
 - (2024.08-present) [AI speech and language assistant](https://github.com/archi-corp)
 
 ### 🏆 Awards

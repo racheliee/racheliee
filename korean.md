@@ -1,5 +1,6 @@
 ## About Me 🍒
 ➡️ [영어로 보기](./README.md)
+- [resume](./rachel_park_resume.pdf)
 
 ### 🎓 Education
 - [성균관대학교](https://www.skku.ac.kr/skku/index.do) 소프트웨어학과 및 산업공학과 (Class of 2025)
@@ -23,7 +24,7 @@
 - (2024.07-2024.08) 한국정보보호산업협회(KISIA) 인공지능 보안 기술개발 네트워크반 교육 수료
 
 ### ⚡ Projects
-- (2024.07-present) [인공지능 기반 악성 URL 탐지 서비스](https://github.com/racheliee/kisia-project)
+- (2024.07-2024.10) [인공지능 기반 악성 URL 탐지 서비스](https://github.com/racheliee/kisia-project)
 - (2024.08-present) [언어발달장애 아동을 위한 인공지능 언어치료사](https://github.com/archi-corp)
 
 ### 🏆 Awards
