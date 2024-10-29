@@ -1,31 +1,32 @@
 ## About Me 🍒
-➡️ [한국어로 보기](./korean.md)
-- [resume](./rachel_park_resume.pdf)
-
+> [한국어로 보기](./korean.md) &nbsp; · &nbsp; [resume](./rachel_park_resume.pdf) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/racheliee/)
+ 
 ### 🎓 Education
 - [Sungkyunkwan University](https://www.skku.ac.kr/skku/index.do) CSE & IE (Class of 2025)
 - [Cupertino High School](https://chs.fuhsd.org/) (Class of 2021)
 
 ### 👾 Interests
-- AWS, Backend Engineering, Machine Learning
+- Cloud Computing, Backend Engineering, Operating Systems, Distributed Systems
 
 ### 🛠️ Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,kotlin,java,r,ts,nestjs,flask,nextjs,prisma,react,postgres,aws,docker,git,figma" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,kotlin,java,r,ts,js,nestjs,flask,nextjs,prisma,react,postgres,mysql,aws,docker,git,figma" />
   </a>
   <br/>
 </p>
 
 
 ### 🚀 Experiences
-- (2022.07-2022.07) Samsung Shining Star Program
+- (2024.03-Present) Samsung Institute of Technology Python Study Group Instructor
+- (2024.03-2024.06) Research Intern (Prof. Miae Son & Korean Ministry of National Defense)
 - (2022.03-2023.12) SKKU Official Ambassador
-- (2024.07-2024.08) [Korea Information Security Industry Association (KISIA)](https://www.kisia.or.kr/) AI & Network Security Program
+- (2022.07-2022.07) Samsung Shining Star Program
 
 ### ⚡ Projects
-- (2024.07-2024.10) [AI powered malicious URL checker](https://github.com/racheliee/kisia-project)
 - (2024.08-present) [AI speech and language assistant](https://github.com/archi-corp)
+- (2024.07-2024.10) [AI powered malicious URL checker](https://github.com/racheliee/kisia-project)
+- (2024.03-2025.06) [xv6 (course: operating systems)](https://github.com/racheliee/skku-projects/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%7C%20Operating%20Systems%20(SWE3004))
 
 ### 🏆 Awards
 - 2024.08.02 _Seoul Business Agency Excellence Award_, [SeSAC Hackathon (by Seoul & Google Korea)](https://www.yna.co.kr/view/AKR20240802119700004)

@@ -1,31 +1,34 @@
 ## About Me 🍒
-➡️ [영어로 보기](./README.md)
-- [resume](./rachel_park_resume.pdf)
+> [영어로 보기](./README.md) &nbsp; · &nbsp; [resume](./rachel_park_resume.pdf) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/racheliee/)
+
 
 ### 🎓 Education
 - [성균관대학교](https://www.skku.ac.kr/skku/index.do) 소프트웨어학과 및 산업공학과 (Class of 2025)
 - [Cupertino High School](https://chs.fuhsd.org/) (Class of 2021)
 
 ### 👾 Interests
-- AWS, Backend Engineering, Machine Learning
+- Cloud Computing, Backend Engineering, Operating Systems, Distributed Systems
 
 ### 🛠️ Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,kotlin,java,r,ts,nestjs,flask,nextjs,prisma,react,postgres,aws,docker,git,figma" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,kotlin,java,r,ts,js,nestjs,flask,nextjs,prisma,react,postgres,mysql,aws,docker,git,figma" />
   </a>
   <br/>
 </p>
 
 
 ### 🚀 Experiences
-- (2022.07-2022.07) 삼성 샤이닝스타 1기
-- (2022.03-2023.12) 성균관대학교 공식 홍보대사 '알리미'
+- (2024.03-Present) 삼성전자공과대학교 python 스터디 그룹 강사
+- (2024.03-2024.06) 학부연구생 (손미애 교수님; 국방부 프로젝트)
 - (2024.07-2024.08) 한국정보보호산업협회(KISIA) 인공지능 보안 기술개발 네트워크반 교육 수료
+- (2022.03-2023.12) 성균관대학교 공식 홍보대사 '알리미'
+- (2022.07-2022.07) 삼성 샤이닝스타 1기
 
 ### ⚡ Projects
-- (2024.07-2024.10) [인공지능 기반 악성 URL 탐지 서비스](https://github.com/racheliee/kisia-project)
 - (2024.08-present) [언어발달장애 아동을 위한 인공지능 언어치료사](https://github.com/archi-corp)
+- (2024.07-2024.10) [인공지능 기반 악성 URL 탐지 서비스](https://github.com/racheliee/kisia-project)
+- (2024.03-2025.06) [xv6 (course: 운영체제)](https://github.com/racheliee/skku-projects/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%7C%20Operating%20Systems%20(SWE3004))
 
 ### 🏆 Awards
 - 2024.08.02 [새싹해커톤 (서울시 & google 주최)](https://www.yna.co.kr/view/AKR20240802119700004) 서울경제진흥원상 (우수상)
