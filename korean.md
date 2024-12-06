@@ -19,8 +19,9 @@
 
 
 ### 🚀 Experiences
-- (2024.03-Present) 삼성전자공과대학교 python 스터디 그룹 강사
-- (2024.03-2024.06) 학부연구생 (손미애 교수님; 국방부 프로젝트)
+- (2024.12-present) 소프트웨어 인턴 @ [Passes](https://www.passes.com/)
+- (2024.03-2024.10) SSIT(삼성전자공과대학교) Python 스터디 그룹 강사
+- (2024.03-2024.06) 학부연구생 (손미애 교수님 & 국방부 프로젝트)
 - (2024.07-2024.08) 한국정보보호산업협회(KISIA) 인공지능 보안 기술개발 네트워크반 교육 수료
 - (2022.03-2023.12) 성균관대학교 공식 홍보대사 '알리미'
 - (2022.07-2022.07) 삼성 샤이닝스타 1기
@@ -33,7 +34,7 @@
 ### 🏆 Awards
 - 2024.08.02 [새싹해커톤 (서울시 & google 주최)](https://www.yna.co.kr/view/AKR20240802119700004) 서울경제진흥원상 (우수상)
 - 2024.08.22 [제2회 KISIA 정보보호 개발자 해커톤](https://www.boannews.com/media/view.asp?idx=132213&direct=mobile) 과학기술정보통신부장관상 (최우수상 1등)
-- 2024.10.17 Dean's List Award
+- 2024.11.28 Dean's List Award
 
 ### 🎖️ Certifications
 - [KT AICE Associate](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/azMvZ09Wa1I2c3FnMnA5TTlSQ0tPdz09)
