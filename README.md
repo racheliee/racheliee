@@ -21,9 +21,7 @@
 - (2024.12-present) SWE intern @ [Passes](https://www.passes.com/)
 - (2024.03-2024.10) Samsung Institute of Technology Python Study Group Instructor
 - (2024.03-2024.06) Research Intern (Prof. Miae Son & Korean Ministry of National Defense)
-- (2022.03-2023.12) SKKU Official Ambassador
-- (2022.07-2022.07) Samsung Shining Star Program
-
+  
 ### ⚡ Projects
 - (2024.08-present) [AI speech and language assistant](https://github.com/archi-corp)
 - (2024.07-2024.10) [AI powered malicious URL checker](https://github.com/racheliee/kisia-project)

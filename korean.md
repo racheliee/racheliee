@@ -19,12 +19,10 @@
 
 
 ### 🚀 Experiences
-- (2024.12-present) 소프트웨어 인턴 @ [Passes](https://www.passes.com/)
+- (2024.12-present) full-stack 인턴 @ [Passes](https://www.passes.com/)
 - (2024.03-2024.10) SSIT(삼성전자공과대학교) Python 스터디 그룹 강사
 - (2024.03-2024.06) 학부연구생 (손미애 교수님 & 국방부 프로젝트)
 - (2024.07-2024.08) 한국정보보호산업협회(KISIA) 인공지능 보안 기술개발 네트워크반 교육 수료
-- (2022.03-2023.12) 성균관대학교 공식 홍보대사 '알리미'
-- (2022.07-2022.07) 삼성 샤이닝스타 1기
 
 ### ⚡ Projects
 - (2024.08-present) [언어발달장애 아동을 위한 인공지능 언어치료사](https://github.com/archi-corp)
