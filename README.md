@@ -18,6 +18,7 @@
 
 
 ### 🚀 Experiences
+- (2025.01-present) SWE Intern @ [Lablup](https://www.lablup.com/)
 - (2024.12-present) SWE intern @ [Passes](https://www.passes.com/)
 - (2024.03-2024.10) Samsung Institute of Technology Python Study Group Instructor
 - (2024.03-2024.06) Research Intern (Prof. Miae Son & Korean Ministry of National Defense)
@@ -25,7 +26,8 @@
 ### ⚡ Projects
 - (2024.08-present) [AI speech and language assistant](https://github.com/archi-corp)
 - (2024.07-2024.10) [AI powered malicious URL checker](https://github.com/racheliee/kisia-project)
-- (2024.03-2025.06) [xv6 (course: operating systems)](https://github.com/racheliee/skku-projects/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%7C%20Operating%20Systems%20(SWE3004))
+- (2024.04-2024.05) [Minishell (course: system programming)](https://github.com/racheliee/skku-projects/tree/main/%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%8B%A4%EC%8A%B5%20%7C%20System%20Programming%20Lab%20(SWE2024)/pa2)
+- (2024.03-2024.06) [xv6 (course: operating systems)](https://github.com/racheliee/skku-projects/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%7C%20Operating%20Systems%20(SWE3004))
 
 ### 🏆 Awards
 - 2024.08.02 _Seoul Business Agency Excellence Award_, [SeSAC Hackathon (by Seoul & Google Korea)](https://www.yna.co.kr/view/AKR20240802119700004)
