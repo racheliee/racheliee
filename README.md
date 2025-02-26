@@ -11,11 +11,10 @@
 ### 🛠️ Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,kotlin,java,r,ts,js,nestjs,flask,nextjs,prisma,react,postgres,mysql,aws,docker,git,figma" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,kotlin,java,r,ts,js,go,swift,nestjs,flask,nextjs,prisma,react,postgres,mysql,aws,docker,git,figma" />
   </a>
   <br/>
 </p>
-
 
 ### 🚀 Experiences
 - (2025.01-present) SWE Intern @ [Lablup](https://www.lablup.com/)
@@ -41,3 +40,12 @@
 ### 📚 Scholarships
 - 2024 KIAT(Korea Institute for Advancement of Technology) Korea-U.S. Youth Exchange Program Scholar in High-tech Fields
 - Academic Excellence Scholarship x 4
+
+## Stats
+
+<a href="https://github.com/racheliee/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-rachelieee.vercel.app/api?username=racheliee&theme=github_dark&show_icons=true&rank_icon=github" />
+</a>
+<a href="https://github.com/racheliee/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-rachelieee.vercel.app/api/top-langs/?username=racheliee&layout=compact&theme=github_dark&langs_count=8&card_width=320&hide=jupyter%20notebook,css,scss,less,vue,html&exclude_repo=ucsc-projects,cse183-final,github-readme-stats"/>
+</a>
