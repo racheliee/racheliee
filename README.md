@@ -17,8 +17,9 @@
 </p>
 
 ### 🚀 Experiences
+- (2025.06-present) SWE Intern @ Google
 - (2025.03-present) Research Intern (Prof. Beomseok Nam & Data Intensive Computing Lab)
-- (2024.12-present) SWE intern @ [Passes](https://www.passes.com/)
+- (2024.12-2025.05) SWE intern @ [Passes](https://www.passes.com/)
 - (2025.01-2025.03) SWE Intern @ [Lablup](https://www.lablup.com/)
 - (2024.03-2024.10) Samsung Institute of Technology Python Study Group Instructor
 - (2024.03-2024.06) Research Intern (Prof. Miae Son & Korean Ministry of National Defense)
@@ -41,7 +42,7 @@
 ### 📚 Scholarships
 - 2024 KIAT(Korea Institute for Advancement of Technology) Korea-U.S. Youth Exchange Program Scholar in High-tech Fields
 - Academic Excellence Scholarship x 4
-
+<!-- 
 ## Stats
 
 <a href="https://github.com/racheliee/github-readme-stats">
@@ -49,4 +50,4 @@
 </a>
 <a href="https://github.com/racheliee/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-rachelieee.vercel.app/api/top-langs/?username=racheliee&layout=compact&theme=github_dark&langs_count=8&card_width=320&hide=jupyter%20notebook,css,scss,less,vue,html&exclude_repo=ucsc-projects,cse183-final,github-readme-stats"/>
-</a>
+</a> -->
