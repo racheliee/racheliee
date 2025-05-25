@@ -17,7 +17,7 @@
 </p>
 
 ### 🚀 Experiences
-- (2025.06-present) SWE Intern @ Google
+- (2025.06-present) SWE Intern @ [Google](https://about.google/)
 - (2025.03-present) Research Intern (Prof. Beomseok Nam & Data Intensive Computing Lab)
 - (2024.12-2025.05) SWE intern @ [Passes](https://www.passes.com/)
 - (2025.01-2025.03) SWE Intern @ [Lablup](https://www.lablup.com/)
