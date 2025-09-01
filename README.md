@@ -1,5 +1,5 @@
 ## About Me 🍒
-> [한국어로 보기](./korean.md) &nbsp; · &nbsp; [resume](./Rachel_Park_SWE_Intern_Resume.pdf) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/racheliee/)
+> [한국어로 보기](./korean.md) &nbsp; · &nbsp; [resume](./Rachel_Park_SWE_Resume.pdf) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/racheliee/)
  
 ### 🎓 Education
 - [Sungkyunkwan University](https://www.skku.ac.kr/skku/index.do) CSE & IE (Class of 2025)
@@ -17,8 +17,8 @@
 </p>
 
 ### 🚀 Experiences
-- (2025.06-present) SWE Intern @ [Google](https://about.google/)
-- (2025.03-present) Research Intern (Prof. Beomseok Nam & Data Intensive Computing Lab)
+- (2025.03-2025.06, 2025.09-present) Research Intern (Prof. Beomseok Nam & Data Intensive Computing Lab)
+- (2025.06-2025.08) SWE Intern @ [Google](https://about.google/)
 - (2024.12-2025.05) SWE intern @ [Passes](https://www.passes.com/)
 - (2025.01-2025.03) SWE Intern @ [Lablup](https://www.lablup.com/)
 - (2024.03-2024.10) Samsung Institute of Technology Python Study Group Instructor

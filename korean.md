@@ -1,5 +1,5 @@
 ## About Me 🍒
-> [영어로 보기](./README.md) &nbsp; · &nbsp; [resume](./Rachel_Park_SWE_Intern_Resume.pdf) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/racheliee/)
+> [영어로 보기](./README.md) &nbsp; · &nbsp; [resume](./Rachel_Park_SWE_Resume.pdf) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/racheliee/)
 
 
 ### 🎓 Education
@@ -19,8 +19,8 @@
 
 
 ### 🚀 Experiences
-- (2025.06-present) SWE Intern @ Google
-- (2025.03-present) 우수학부연구생 (남범석 교수님 & 데이터베이스 연구실)
+- (2025.03-2025.06, 2025.09-present) 우수학부연구생 (남범석 교수님 & 데이터베이스 연구실)
+- (2025.06-2025.08) SWE Intern @ Google
 - (2024.12-2025.05) SWE intern @ [Passes](https://www.passes.com/)
 - (2025.01-2025.03) SWE Intern @ [Lablup](https://www.lablup.com/)
 - (2024.07-2024.08) 한국정보보호산업협회(KISIA) 인공지능 보안 기술개발 네트워크반 교육 수료
